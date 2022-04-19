@@ -1,1 +1,0 @@
-"%VCVARS%" x64 && ninja
